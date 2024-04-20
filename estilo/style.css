@@ -77,7 +77,7 @@ section.imagem > p {
 
 #img01 {
     background-image: url(../imagens/iamgemum.jpeg);
-    background-position: right ;
+    background-position: center ;
     background-size: cover;
 }
 
